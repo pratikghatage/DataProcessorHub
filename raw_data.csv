@@ -1,0 +1,11 @@
+machineid|ip-addr|security-group|subnet
+mch_c0c46596|172.31.0.1|sg_10,sg_3,sg_2,sg_9,sg_4,sg_7|net_6,net_5,net_7,net_3,net_9,net_4
+mch_c0c97964|172.31.0.2|sg_6,sg_10,sg_8,sg_4,sg_1,sg_7,sg_5,sg_3,sg_9|net_4,net_7,net_9
+mch_c0cde904|172.31.0.3|sg_9,sg_6,sg_5,sg_4,sg_7,sg_1|net_3
+mch_c0d1fba2|172.31.0.4|sg_2,sg_7,sg_5,sg_3,sg_6,sg_8|net_5,net_8,net_10
+mch_c0d603dc|172.31.0.5|sg_3,sg_9|net_5,net_2,net_3,net_10,net_6,net_1,net_4
+mch_c0da15a8|172.31.0.6|sg_6,sg_8,sg_1,sg_5,sg_7|net_7
+mch_c0dd84ea|172.31.0.7|sg_1,sg_7,sg_3,sg_2,sg_4,sg_9,sg_5,sg_6|net_4,net_1,net_10,net_5,net_6,net_2,net_8,net_3
+mch_c0e171d6|172.31.0.8|sg_5,sg_3|net_3,net_2,net_1,net_8,net_5
+mch_c0e4e32a|172.31.0.9|sg_7,sg_2,sg_8,sg_5,sg_9,sg_6,sg_4|net_1,net_5,net_8,net_9,net_2,net_4,net_7,net_10,net_3
+mch_c0e8a26c|172.31.0.10|sg_3,sg_5,sg_10,sg_8|net_5,net_3
